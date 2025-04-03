@@ -4,7 +4,7 @@ Replaces all error messages with unhelpful, insulting, abusive error messages.
 
 Made as an April Fool's joke.
 
-## Disclaimers
+## Disclaimer
 - Don't use this if you don't have a sense of humor
 
 ## Installation
